@@ -10,8 +10,8 @@ const person = {
 };
 
 const contact ={
-    contact_no: "+96567062653",
-    whatsapp: "+96567062653",
+    contact_no: "+96566900349",
+    whatsapp: "+96566900349",
     location: "",
     email: "fayizkr27@gmail.com",
 };
@@ -34,7 +34,7 @@ const links =[
     link:"https://m.facebook.com/people/National-Point/61555328157061/"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/faiz_kr?igsh=NWVxOHd5ZGd1c2p5"
   },
     skype={
@@ -82,7 +82,7 @@ const links =[
     link:"https://www.youtube.com/"
   },
     snapchat={
-    visibil: true,
+    visibil: false,
     link:"https://www.snapchat.com/add/faiz_kr?share_id=9Cy8d3b5HDI&locale=en-US"
   },
 ];
